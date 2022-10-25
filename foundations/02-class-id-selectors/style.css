@@ -1,0 +1,18 @@
+/* exercise 2 css foundations */
+.odd
+{
+    background-color: rgb(191, 118, 130);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+#two   {
+    color: rgb(31, 31, 164);
+    font-size: 36px;
+}
+.three {
+    font-size: 24px;
+}
+#four {
+    background-color: rgb(130, 171, 130);
+    font-size: 24px;
+    font-weight: bold;
+}
