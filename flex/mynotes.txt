@@ -1,0 +1,10 @@
+As a general idea, I think I understood the basis of Flexbox. 
+I find it quite complicated at certain times. 
+For example: 
+1. how does it turn from rows to columns and reversed when there's just a flex-direction specified 
+2. grouping certain divs together to make the whole flexbox make sense 
+3. spacing sometimes is weird 
+
+Well, mostly 1 is really weird cus it's unclear to me when I should be justifying and aligning.
+However, I am hopeful that I will understand. 
+All I have to do is... keep learning :D 
